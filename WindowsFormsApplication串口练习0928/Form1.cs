@@ -38,6 +38,13 @@ namespace WindowsFormsApplication串口练习0928
 
 
 
+
+
+
+
+
+
+
         }
         public static string byt(byte[] bytes)
         {
