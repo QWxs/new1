@@ -33,6 +33,10 @@ namespace WindowsFormsApplication串口练习0928
 
 
 
+
+
+
+
                 textBox1.Text += Encoding.Default.GetString(buffer);
             }
         }
