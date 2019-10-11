@@ -34,6 +34,10 @@ namespace WindowsFormsApplication串口练习0928
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+
+
+
+
         }
         public static string byt(byte[] bytes)
         {
