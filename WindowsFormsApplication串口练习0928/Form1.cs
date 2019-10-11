@@ -153,9 +153,26 @@ namespace WindowsFormsApplication串口练习0928
             return returnBytes;
         }
 
-            
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
     }
 }
